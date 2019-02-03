@@ -3654,6 +3654,8 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b331072.m3u8
 
 <item><title>TeleSUR</title>
 <link>http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8</link></item>
+<item><title>TeleSUR 2</title>
+<link>https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8</link></item>
 <item><title>TeleSUR Opc2</title>
 <link>http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/chunklist_b603136.m3u8</link></item>
 
