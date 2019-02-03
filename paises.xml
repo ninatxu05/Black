@@ -3686,6 +3686,11 @@ http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b331072.m3u8
 <item><title>Promar Tv</title>
 <link>rtmp://edge.wms28.lorini.net/promar/promar</link></item>
 
+<item><title>Promar Tv</title>
+<link>http://vcp1.myplaytv.com/promar/promar/chunklist_w1645074842.m3u8</link></item>
+
+
+
 <item><title>Canal i</title>
 <link>rtmp://edge.wms28.lorini.net/canal-i playpath=canal-i swfUrl=http://www.lorini.tv/flvplayer/FLVplayer_Custom.swf live=1 pageUrl=http://www.canal-i.com/sitio/</link></item>
 
